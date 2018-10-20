@@ -1,0 +1,178 @@
+Rocket|mission|Agency|date|Location|Remaining date
+SSLV|Demo 1|Indian Space Research Organization|30/04/2019|Sriharikota, Republic of India|
+Soyuz 2.1B|Uzlovoy Module (UM) ?Prichal?|Khrunichev State Research and Production Space Center|30/04/2019|Baikonur Cosmodrome, Republic of Kazakhstan|
+Soyuz-FG|Soyuz MS-12|Russian Federal Space Agency (ROSCOSMOS)|04/04/2019|Baikonur Cosmodrome, Republic of Kazakhstan|
+Soyuz 2.1A|Soyuz MS-15|Russian Federal Space Agency (ROSCOSMOS)|14/04/2019|Baikonur Cosmodrome, Republic of Kazakhstan|
+Ariane 5 ECA|unknown & Global Xpress-5|Arianespace|31/08/2019|Kourou, French Guiana|
+Soyuz 2.1A|Soyuz MS Uncrewed|Russian Federal Space Agency (ROSCOSMOS)|22/08/2019|Baikonur Cosmodrome, Republic of Kazakhstan|
+Falcon Heavy|AFSPC-52|SpaceX|31/08/2019|Kennedy Space Center, FL, USA|
+Atlas V N22|CST-100 Starliner Crewed Flight Test (Crewed)|United Launch Alliance|31/08/2019|Cape Canaveral, FL, USA|
+Soyuz STA/Fregat|Cheops & CSG-1|Arianespace|13/12/2018|Kourou, French Guiana|
+Soyuz STB/Fregat|O3b FM17-20|Arianespace|31/12/2018|Kourou, French Guiana|
+Soyuz STB/Fregat|Euclid|Arianespace|31/12/2018|Kourou, French Guiana|
+Soyuz STB/Fregat|METOP-SG A1|Arianespace|31/12/2018|Kourou, French Guiana|
+Soyuz STB/Fregat|METOP-SG B1|Arianespace|31/12/2018|Kourou, French Guiana|
+Ariane 5 ECA|GSAT-11|Arianespace|03/12/2018|Kourou, French Guiana|
+Vega|Proba-3|Arianespace|31/12/2018|Kourou, French Guiana|
+Vega|SSMS (Small Spacecraft Mission Service)|Arianespace|31/12/2018|Kourou, French Guiana|
+Ariane 5 ECA|JCSAT-17 & unknown|Arianespace|31/12/2018|Kourou, French Guiana|
+Ariane 5 ECA|Star One D2 & unknown|Arianespace|31/12/2018|Kourou, French Guiana|
+Ariane 5 ECA|Eutelsat 7C|Arianespace|31/12/2018|Kourou, French Guiana|
+Ariane 5 ECA|unknown & Eutelsat Quantum|Arianespace|31/12/2018|Kourou, French Guiana|
+Ariane 5 ECA|African Broadband Satellite|Arianespace|31/12/2018|Kourou, French Guiana|
+Vega|CERES|Arianespace|31/12/2018|Kourou, French Guiana|
+Ariane 5 ECA|Galaxy 30 and MEV-2|Arianespace|31/12/2018|Kourou, French Guiana|
+Ariane 5 ECA|Unknown satellite for Intelsat|Arianespace|31/12/2018|Kourou, French Guiana|
+Ariane 5 ECA|BSAT-4b & Unknown|Arianespace|31/12/2018|Kourou, French Guiana|
+Ariane 5 ECA|SES-17|Arianespace|31/12/2018|Kourou, French Guiana|
+Ariane 5 ECA|JUICE (JUpiter ICy moons Explorer)|Arianespace|31/12/2018|Kourou, French Guiana|
+Vega|NAOS|Arianespace|31/12/2018|Kourou, French Guiana|
+Vega|THEOS-2|Arianespace|31/12/2018|Kourou, French Guiana|
+Long March 3B/E|Chang'e 4 (lander and rover)|China Aerospace Science and Technology Corporation|07/12/2018|Xichang Satellite Launch Center, People's Republic of China|
+Long March 4B|CBERS-4A|China Aerospace Science and Technology Corporation|31/12/2018|Taiyuan, People's Republic of China|
+Long March 3B/E|APStar-6D|China Aerospace Science and Technology Corporation|31/12/2018|Xichang Satellite Launch Center, People's Republic of China|
+Long March 5|Chang'e 5|China Aerospace Science and Technology Corporation|31/12/2018|Wenchang Satellite Launch Center, People's Republic of China|
+Long March 3B|TCSTAR-1|China Aerospace Science and Technology Corporation|31/12/2018|Xichang Satellite Launch Center, People's Republic of China|
+Long March 3B|Fengyun-4B|China Aerospace Science and Technology Corporation|31/12/2018|Xichang Satellite Launch Center, People's Republic of China|
+Long March 4C|Fengyun-3E|China Aerospace Science and Technology Corporation|31/12/2018|Unknown Location|
+Long March 5|Shijian 20|China Aerospace Science and Technology Corporation|31/12/2018|Wenchang Satellite Launch Center, People's Republic of China|
+Long March 5|Tianhe-1|China Aerospace Science and Technology Corporation|31/12/2018|Jiuquan, People's Republic of China|
+Long March 7|Tianzhou-2|China Aerospace Science and Technology Corporation|31/12/2018|Wenchang Satellite Launch Center, People's Republic of China|
+Long March 2F|Shenzhou 12|China Aerospace Science and Technology Corporation|31/12/2018|Jiuquan, People's Republic of China|
+Long March 3B|Palapa-N1|China Aerospace Science and Technology Corporation|31/12/2018|Xichang Satellite Launch Center, People's Republic of China|
+Long March ?|Fengyun-4C|China Aerospace Science and Technology Corporation|31/12/2018|Unknown Location|
+GSLV Mk II|GiSat-1|Indian Space Research Organization|31/12/2018|Sriharikota, Republic of India|
+PSLV|RISAT-2B|Indian Space Research Organization|31/12/2018|Sriharikota, Republic of India|
+PSLV XL|Aditya-L1|Indian Space Research Organization|31/12/2018|Sriharikota, Republic of India|
+PSLV|RISAT-2A|Indian Space Research Organization|31/12/2018|Sriharikota, Republic of India|
+GSLV Mk II|NISAR (NASA-ISRO Synthetic Aperture Radar)|Indian Space Research Organization|31/12/2018|Sriharikota, Republic of India|
+Angara 1.2|KOMPSAT-6|International Launch Services|31/12/2018|Plesetsk Cosmodrome, Russian Federation|
+Soyuz-2.1a/Fregat|Kanopus-V ?5 & Kanopus-V ?6|Khrunichev State Research and Production Space Center|25/12/2018|Vostochny Cosmodrome, Siberia, Russian Federation|
+Soyuz 2.1B|EgyptSat-A|Khrunichev State Research and Production Space Center|26/12/2018|Baikonur Cosmodrome, Republic of Kazakhstan|
+Proton-M/Blok DM-03|3 x Glonass-M|Khrunichev State Research and Production Space Center|31/12/2018|Baikonur Cosmodrome, Republic of Kazakhstan|
+Proton-M/Briz-M|Blagovest N13L|Khrunichev State Research and Production Space Center|31/12/2018|Baikonur Cosmodrome, Republic of Kazakhstan|
+Proton-M Briz-M|Blagovest ?14L|Khrunichev State Research and Production Space Center|31/12/2018|Baikonur Cosmodrome, Republic of Kazakhstan|
+Angara A5/Briz-M|Unknown military payload|Khrunichev State Research and Production Space Center|31/12/2018|Plesetsk Cosmodrome, Russian Federation|
+Proton-M Briz-M|Elektro-L No.3|Khrunichev State Research and Production Space Center|31/12/2018|Baikonur Cosmodrome, Republic of Kazakhstan|
+Proton-M/Blok DM-03|Elektro-L No.4|Khrunichev State Research and Production Space Center|31/12/2018|Baikonur Cosmodrome, Republic of Kazakhstan|
+SLS|Exploration Mission 2 (EM-2)|National Aeronautics and Space Administration|31/12/2018|Kennedy Space Center, FL, USA|
+Electron|Lunar Scout|Rocket Lab Ltd|31/12/2018|Onenui Station, Mahia Peninsula, New Zealand|
+Electron|Outerspace 1 and ISILaunch cubesats|Rocket Lab Ltd|31/12/2018|Onenui Station, Mahia Peninsula, New Zealand|
+Soyuz-FG|Soyuz MS-11|Russian Federal Space Agency (ROSCOSMOS)|19/12/2018|Baikonur Cosmodrome, Republic of Kazakhstan|
+Soyuz-2.1b/Fregat-M|Arktika-M 1|Russian Federal Space Agency (ROSCOSMOS)|31/12/2018|Baikonur Cosmodrome, Republic of Kazakhstan|
+Soyuz 2.1A|Bars-M No. 3|Russian Space Forces|31/12/2018|Plesetsk Cosmodrome, Russian Federation|
+Falcon 9 Block 5|SpX CRS-16|SpaceX|01/12/2018|Cape Canaveral, FL, USA|
+Falcon 9 Block 5|PSN VI and Unknown Payload|SpaceX|31/12/2018|Cape Canaveral, FL, USA|
+Falcon 9 Block 5|GPS III-1|SpaceX|15/12/2018|Cape Canaveral, FL, USA|
+Falcon 9 Block 5|Iridium-8|SpaceX|30/12/2018|Vandenberg AFB, CA, USA|
+Falcon 9 Block 5|SXM-7|SpaceX|31/12/2018|Unknown Location|
+Falcon 9 Block 5|SpX-DM1 (Demonstration Mission 1)|SpaceX|31/12/2018|Kennedy Space Center, FL, USA|
+Falcon 9 Block 5|GiSAT-1|SpaceX|31/12/2018|Cape Canaveral, FL, USA|
+Falcon 9 Block 5|JCSAT-18/KACIFIC-1|SpaceX|31/12/2018|Kennedy Space Center, FL, USA|
+Falcon 9 Block 5|SAOCOM 1B|SpaceX|31/12/2018|Vandenberg AFB, CA, USA|
+Falcon 9 Block 5|Spaceflight GTO-1 & SpaceIL Lunar Lander|SpaceX|31/12/2018|Cape Canaveral, FL, USA|
+Falcon 9 Block 5|Türksat 5A|SpaceX|31/12/2018|Unknown Location|
+Falcon 9 Block 5|SXM-8|SpaceX|31/12/2018|Unknown Location|
+Falcon 9 Block 5|Spaceflight SSO-C|SpaceX|31/12/2018|Vandenberg AFB, CA, USA|
+Falcon 9 Block 5|SpX CRS-20|SpaceX|31/12/2018|Cape Canaveral, FL, USA|
+Falcon 9 Block 5|Türksat 5B|SpaceX|31/12/2018|Unknown Location|
+Falcon 9 Block 5|WorldView Legion 1|SpaceX|31/12/2018|Vandenberg AFB, CA, USA|
+Falcon 9 Block 5|WorldView Legion 2|SpaceX|31/12/2018|Vandenberg AFB, CA, USA|
+Falcon 9 Block 5|GPS III-6|SpaceX|31/12/2018|Cape Canaveral, FL, USA|
+Atlas V 552|Dream Chaser CRS 2 Flight 1|United Launch Alliance|31/12/2018|Cape Canaveral, FL, USA|
+Atlas V 551|ViaSat-3|United Launch Alliance|31/12/2018|Cape Canaveral, FL, USA|
+Atlas V 552|Dream Chaser CRS 2 Flight 2|United Launch Alliance|31/12/2018|Cape Canaveral, FL, USA|
+Atlas V 401|JPSS 2 (Joint Polar Satellite System spacecraft No. 2)|United Launch Alliance|31/12/2018|Vandenberg AFB, CA, USA|
+Soyuz STB/Fregat|10 x OneWeb (1-10)|Arianespace|14/02/2019|Kourou, French Guiana|
+Ariane 5 ECA|UNKNOWN & GEO-KOMPSAT-2B|Arianespace|28/02/2019|Kourou, French Guiana|
+Ariane 62|2 x Galileo|Arianespace|28/02/2019|Kourou, French Guiana|
+Long March 4C|FengYun-3F|China Aerospace Science and Technology Corporation|28/02/2019|Unknown Location|
+PSLV|RISAT-2BR1|Indian Space Research Organization|28/02/2019|Sriharikota, Republic of India|
+Proton-M Briz-M|Eutelsat 5 West B & MEV-1|International Launch Services|28/02/2019|Baikonur Cosmodrome, Republic of Kazakhstan|
+Soyuz-FG|Progress MS-11 (72P)|Khrunichev State Research and Production Space Center|06/02/2019|Baikonur Cosmodrome, Republic of Kazakhstan|
+Proton-M/Blok DM-03|Spektr-RG|Khrunichev State Research and Production Space Center|28/02/2019|Baikonur Cosmodrome, Republic of Kazakhstan|
+Falcon 9 Block 5|SpX CRS-17|SpaceX|16/02/2019|Cape Canaveral, FL, USA|
+Falcon 9 Block 5|RADARSAT Constellation|SpaceX|17/02/2019|Vandenberg AFB, CA, USA|
+Falcon Heavy|STP-2|SpaceX|28/02/2019|Kennedy Space Center, FL, USA|
+Falcon 9 Block 5|GPS III-2|SpaceX|28/02/2019|Cape Canaveral, FL, USA|
+Falcon 9 Block 5|GPS III-4|SpaceX|01/03/2019|Cape Canaveral, FL, USA|
+Atlas V N22|CST-100 Starliner Orbital Flight Test (Uncrewed)|United Launch Alliance|28/02/2019|Cape Canaveral, FL, USA|
+Atlas V 551|AFSPC-12|United Launch Alliance|01/03/2019|Cape Canaveral, FL, USA|
+Vega|PRISMA|Arianespace|31/01/2019|Kourou, French Guiana|
+GSLV Mk III|Chandrayaan-2|Indian Space Research Organization|02/01/2019|Sriharikota, Republic of India|
+PSLV XL|Cartosat-3 & NEMO-AM|Indian Space Research Organization|31/01/2019|Sriharikota, Republic of India|
+Soyuz 2.1A|Soyuz MS Uncrewed-2|Russian Federal Space Agency (ROSCOSMOS)|31/01/2019|Baikonur Cosmodrome, Republic of Kazakhstan|
+Delta IV M+(5,4)|WGS-10|United Launch Alliance|22/01/2019|Cape Canaveral, FL, USA|
+Atlas V 411|Solar Orbiter|United Launch Alliance|31/01/2019|Cape Canaveral, FL, USA|
+Soyuz STA/Fregat|EarthCARE|Arianespace|31/07/2019|Kourou, French Guiana|
+GSLV Mk III|GSAT-20|Indian Space Research Organization|31/07/2019|Sriharikota, Republic of India|
+Proton-M/Briz-M|ExoMars 2020 surface platform & rover|Khrunichev State Research and Production Space Center|24/07/2019|Baikonur Cosmodrome, Republic of Kazakhstan|
+Zenit-3SLB|Lybid|Land Launch|31/07/2019|Baikonur Cosmodrome, Republic of Kazakhstan|
+Soyuz-FG|Soyuz MS-13|Russian Federal Space Agency (ROSCOSMOS)|09/07/2019|Baikonur Cosmodrome, Republic of Kazakhstan|
+Atlas V 551|NROL-101|United Launch Alliance|31/07/2019|Cape Canaveral, FL, USA|
+Long March 5|China's Mars OLR (orbiter lander rover)|China Aerospace Science and Technology Corporation|30/06/2019|Wenchang Satellite Launch Center, People's Republic of China|
+Electron|Unknown|Rocket Lab Ltd|30/06/2019|Wallops Island, Virginia, USA|
+Atlas V 551|AEHF-5|United Launch Alliance|30/06/2019|Cape Canaveral, FL, USA|
+Atlas V 551|AEHF-6|United Launch Alliance|30/06/2019|Cape Canaveral, FL, USA|
+Atlas V 551|STP-3|United Launch Alliance|30/06/2019|Cape Canaveral, FL, USA|
+Atlas V 541|Mars 2020|United Launch Alliance|30/06/2019|Cape Canaveral, FL, USA|
+Delta IV Heavy|NROL-82|United Launch Alliance|30/06/2019|Vandenberg AFB, CA, USA|
+Ariane 5 ECA|Intelsat 39|Arianespace|31/03/2019|Kourou, French Guiana|
+Soyuz-2.1b/Fregat|Meteor-M ?2-2|Khrunichev State Research and Production Space Center|31/03/2019|Vostochny Cosmodrome, Siberia, Russian Federation|
+Falcon 9 Block 5|Amos-17|SpaceX|31/03/2019|Cape Canaveral, FL, USA|
+Falcon 9 Block 5|Spaceflight GTO-1|SpaceX|31/03/2019|Cape Canaveral, FL, USA|
+Vega-C|2 x Pléiades Neo|Arianespace|31/05/2019|Kourou, French Guiana|
+Ariane 5 ECA|James Webb Space Telescope (JWST)|Arianespace|29/05/2019|Kourou, French Guiana|
+Vega-C|2 x Pléiades Neo|Arianespace|31/05/2019|Kourou, French Guiana|
+Ariane 5 ECA|Heinrich Hertz (H2Sat)|Arianespace|31/05/2019|Kourou, French Guiana|
+Ariane 62|ARIEL|Arianespace|31/05/2019|Kourou, French Guiana|
+Long March 3B|Thaicom-9|China Aerospace Science and Technology Corporation|31/05/2019|Xichang Satellite Launch Center, People's Republic of China|
+Long March 5|Chang'e 6|China Aerospace Science and Technology Corporation|31/05/2019|Wenchang Satellite Launch Center, People's Republic of China|
+SLS|Exploration Mission 1 (EM-1)|National Aeronautics and Space Administration|31/05/2019|Kennedy Space Center, FL, USA|
+Electron|Kleos Scouting Mission|Rocket Lab Ltd|31/05/2019|Onenui Station, Mahia Peninsula, New Zealand|
+Falcon 9 Block 5|SpX CRS-18|SpaceX|06/05/2019|Cape Canaveral, FL, USA|
+Falcon 9 Block 5|SpX-DM2 (Demonstration Mission 2)|SpaceX|31/05/2019|Kennedy Space Center, FL, USA|
+Falcon 9 Block 5|Spaceflight SSO-B|SpaceX|31/05/2019|Vandenberg AFB, CA, USA|
+Falcon 9 Block 5|GPS III-5|SpaceX|31/05/2019|Cape Canaveral, FL, USA|
+Falcon 9 Block 5|HAKUTO-R Mission 1|SpaceX|31/05/2019|Unknown Location|
+Falcon 9 Block 5|HAKUTO-R Mission 2|SpaceX|31/05/2019|Unknown Location|
+Delta IV M+(4,2)|GPS III-3|United Launch Alliance|31/05/2019|Cape Canaveral, FL, USA|
+Atlas V 551|AFSPC-8|United Launch Alliance|31/05/2019|Cape Canaveral, FL, USA|
+Soyuz STB/Fregat|MetOp-C|Arianespace|06/11/2018|Kourou, French Guiana|
+Vega|Mohammed VI-B|Arianespace|05/11/2018|Kourou, French Guiana|
+Ariane 5 ECA|EDRS-C/HYLAS 3|Arianespace|30/11/2018|Kourou, French Guiana|
+Ariane 5 ECA|GEO-KOMPSAT-2A|Arianespace|30/11/2018|Kourou, French Guiana|
+Ariane 5 ECA|GSAT-31|Arianespace|30/11/2018|Kourou, French Guiana|
+Vega-C|KOMPSAT-7|Arianespace|30/11/2018|Kourou, French Guiana|
+PSLV XL|HySIS|Indian Space Research Organization|21/11/2018|Sriharikota, Republic of India|
+PSLV|EMISAT|Indian Space Research Organization|30/11/2018|Sriharikota, Republic of India|
+Proton-M|MLM Nauka|Khrunichev State Research and Production Space Center|07/11/2018|Baikonur Cosmodrome, Republic of Kazakhstan|
+Electron|VCLS ELaNa XIX|Rocket Lab Ltd|30/11/2018|Onenui Station, Mahia Peninsula, New Zealand|
+Soyuz 2.1B/Fregat-M|Glonass-M|Russian Space Forces|02/11/2018|Plesetsk Cosmodrome, Russian Federation|
+Falcon 9 Block 5|Es'hail 2|SpaceX|14/11/2018|Kennedy Space Center, FL, USA|
+Falcon 9 Block 5|Spaceflight SSO-A|SpaceX|19/11/2018|Vandenberg AFB, CA, USA|
+Falcon Heavy|Arabsat-6A|SpaceX|30/11/2018|Kennedy Space Center, FL, USA|
+Falcon 9 Block 5|KPLO|SpaceX|30/11/2018|Cape Canaveral, FL, USA|
+Delta IV Heavy|NROL-71|United Launch Alliance|28/11/2018|Vandenberg AFB, CA, USA|
+Atlas V 401|Landsat 9|United Launch Alliance|30/11/2018|Vandenberg AFB, CA, USA|
+Ariane 5 ECA|BepiColombo|Arianespace|19/10/2019|Kourou, French Guiana|
+Ariane 5 ECA|Hellas Sat 4/SaudiGeoSat-1|Arianespace|31/10/2018|Kourou, French Guiana|
+Long March 2C|CFOSAT|China Aerospace Science and Technology Corporation|29/10/2018|Jiuquan, People's Republic of China|
+Long March 3B|SupremeSAT-2|China Great Wall Industry Corporation|31/10/2018|Unknown Location|
+GSLV Mk III|GSAT-29|Indian Space Research Organization|31/10/2018|Sriharikota, Republic of India|
+GSLV Mk II|GSAT-7A|Indian Space Research Organization|31/10/2018|Sriharikota, Republic of India|
+Soyuz-FG|Progress MS-10 (71P)|Khrunichev State Research and Production Space Center|31/10/2018|Baikonur Cosmodrome, Republic of Kazakhstan|
+Electron|It's Business Time|Rocket Lab Ltd|31/10/2018|Onenui Station, Mahia Peninsula, New Zealand|
+Soyuz-FG|Soyuz MS-14|Russian Federal Space Agency (ROSCOSMOS)|10/10/2019|Baikonur Cosmodrome, Republic of Kazakhstan|
+Soyuz 2.1A|Soyuz MS-16|Russian Federal Space Agency (ROSCOSMOS)|20/10/2018|Baikonur Cosmodrome, Republic of Kazakhstan|
+Soyuz 2.1B|Lotos-S1|Russian Space Forces|24/10/2018|Plesetsk Cosmodrome, Russian Federation|
+Falcon 9 Block 5|Sentinel-6A (Jason-CS)|SpaceX|31/10/2018|Vandenberg AFB, CA, USA|
+Ariane 5 ECA|ViaSat-3|Arianespace|30/09/2019|Kourou, French Guiana|
+Ariane 62|2xGalileo|Arianespace|30/09/2019|Kourou, French Guiana|
+SSLV|Demo 2|Indian Space Research Organization|30/09/2019|Sriharikota, Republic of India|
+Proton-M/Blok DM-03|Elektro-L No.5|Khrunichev State Research and Production Space Center|30/09/2019|Baikonur Cosmodrome, Republic of Kazakhstan|
+Falcon 9 Block 5|Spaceflight GTO-2|SpaceX|30/09/2019|Cape Canaveral, FL, USA|
+Falcon 9 Block 5|SpX CRS-19|SpaceX|30/09/2019|Cape Canaveral, FL, USA|
+Falcon Heavy|Ovzon-3|SpaceX|30/09/2019|Kennedy Space Center, FL, USA|
+Atlas V 552|Dream Chaser CRS-2 Demo Flight|United Launch Alliance|29/09/2019|Cape Canaveral, FL, USA|
+Atlas V 552|Dream Chaser Test Flight|United Launch Alliance|30/09/2019|Cape Canaveral, FL, USA|
